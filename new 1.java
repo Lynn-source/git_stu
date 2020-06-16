@@ -79,6 +79,7 @@ public class HelloWorld {
         			  System.out.println("Choose an option:");
         			  	  blackjackOption = scnr.nextInt();
         		  } //if blackjackOption ==1
+				  
         		  
         		  else if (blackjackOption == 2){
         			  System.out.println("Your card total is: " + userTotal);

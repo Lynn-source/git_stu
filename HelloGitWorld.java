@@ -9,6 +9,7 @@ public class HelloGitWorld {
 		System.out.println("Added for the second commit");
 		//this is where I put some awesome code the will change the world
 		System.out.println("This is where the amazing code is");
+		System.out.println("I have added this line so that there would be a change");
 
 	}
 
